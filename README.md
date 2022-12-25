@@ -27,7 +27,7 @@
 
 | 발표자 | 발표자료 |
 |------|--------|
-|문지은|[옵저버 패턴](https://github.com/YAPP-19th/Design-Pattern-Study/blob/main/Observer-Pattern/observer-pattern.md)|
+|문지은|[옵저버 패턴](https://github.com/Ddda-Bong/Design-Pattern-Study/blob/main/Observer-Pattern/2%EC%9E%A5_%EC%98%B5%EC%A0%80%EB%B2%84%ED%8C%A8%ED%84%B4_%EB%AC%B8%EC%A7%80%EC%9D%80.md)|
 
 ### 데코레이터 패턴
 
